@@ -1,2 +1,3 @@
-# MamaMiaPizzeria - Hito 2 "useStage"
-Login y Registro con validaciones.
+# MamaMiaPizzeria - Hito 3 "Render Dinamicos"
+<br>
+Home con renders + componente cart desde pizzas.js
