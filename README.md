@@ -1,2 +1,2 @@
-# MammaMia-Hito3
-Render Dinámico en Home / + Carrito de compra dinámico / uso de data desde archivo interno (pizzas.js)
+# MamaMiaPizzeria - Hito 2 "useStage"
+Login y Registro con validaciones.
